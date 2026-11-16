@@ -89,6 +89,8 @@ providers may account for the difference (not run during the split).
 
 ## Change history
 
+- **2026-11-16** — Released as free software under GPL-3.0-or-later (owner decision): `LICENSE` added,
+  `composer.json` license changed from `proprietary`, License section in the README.
 - **2026-10-30 review fixes**
   - Import rejects unreadable conditions (see Import / export).
   - CSV is RFC 4180, with fallback for old `escape: '\\'` exports.
