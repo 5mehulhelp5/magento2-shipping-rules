@@ -3,7 +3,7 @@
 Read this before changing the module. Workspace-wide rules are in ../AGENTS.md.
 
 Hide shipping methods, or offer a "contact store for a quote" method, based on conditions about the cart.
-Package `tonyapps/module-shippingrules` 0.1.0.
+Package `tonyapps/module-shippingrules` 1.0.0.
 
 ## Status
 

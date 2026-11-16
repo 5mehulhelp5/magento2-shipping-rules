@@ -2,7 +2,6 @@
     "name": "tonyapps/module-shippingrules",
     "description": "Rule-driven shipping method control for Magento 2.4 (hide methods, contact-store carrier, import/export)",
     "type": "magento2-module",
-    "version": "0.1.0",
     "license": "GPL-3.0-or-later",
     "require": {
         "php": "~8.3.0||~8.4.0",
